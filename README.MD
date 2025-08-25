@@ -46,8 +46,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yaashlodha/ai_resume_analyzer.git](https://github.com/yaashlodha/ai_resume_analyzer.git)
-    cd ai_resume_analyzer
+    git clone [https://github.com/yaashlodha/Question_Generation.git](https://github.com/yaashlodha/Question_Generation.git)
+    cd Question_Generation
     ```
 
 2.  **Create a virtual environment and install dependencies:**
