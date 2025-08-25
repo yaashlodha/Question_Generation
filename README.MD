@@ -1,4 +1,5 @@
-# AI Interview Blueprint and Question Generator 🤖
+# AI Interview Blueprint and Question Generator 
+
 
 This project is a web application built with Streamlit and LangChain that streamlines the initial stages of the hiring process. It takes a candidate's raw resume text, analyzes it to extract structured information, and then generates a tailored set of interview questions based on the analysis.
 
